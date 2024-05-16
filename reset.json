@@ -1,0 +1,18 @@
+{
+    "API_TOKEN": "6614100466:AAG9wd4UYkESzlKywktzrl9q8CIgwZii9qw",
+    "Games": [
+        {
+            "Id":0,
+            "Player":[],
+            "Playing":0,
+            "Score":[],
+            "History": [{
+                "Id":[],
+                "Questions":[],
+                "Answers":[],
+                "Keys":[],
+                "Scores":[]
+            }]
+        }
+    ]
+}
